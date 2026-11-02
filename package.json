@@ -1,0 +1,12 @@
+{
+  "name": "shutterverse",
+  "version": "1.0.0",
+  "description": "SHUTTERVERSE — Premium International Photography Portfolio & Editorial Magazine",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["photography", "editorial", "masonry", "portfolio", "shutterverse"],
+  "author": "Antigravity",
+  "license": "MIT"
+}
